@@ -8,6 +8,8 @@
 | ```$\alpha$``` | $\alpha$ |
 | ```$A$``` | $A$ |
 | ```$\beta$``` | $\beta$ |
+| ```$\triangle$``` | $\triangle$ |
+| ```$\triangledown$``` | $\triangledown$ |
 | ```$B$``` | $B$ |
 | ```$\gamma$``` | $\gamma$ |
 | ```$\Gamma$``` | $\Gamma$ |
