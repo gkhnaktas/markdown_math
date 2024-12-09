@@ -2,7 +2,7 @@
 
 | Code | Result |
 |  :--------  | :-------  |
-| ```$fv+pv((1+rate)^{nper})+pmt(\frac{(1 + rate*when)}{rate*((1 + rate)^{nper} - 1)})=0$``` | $fv+pv((1+rate)^{nper})+pmt(\frac{(1 + rate*when)}{rate*((1 + rate)^{nper} - 1)})=0$ |
+| ```$fv+pv((1+rate)^{nper})+pmt(\frac{(1 + rate*when)}{rate*((1 + rate)^{nper} - 1)})=0$``` | $fv+pv((1+rate)^{nper})+pmt(\frac{(1 + rate * when)}{rate * ((1 + rate)^{nper} - 1)})=0$ |
 | ```$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$``` | $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ |
 | ```$2H + \frac{1}{2}O_2 \to H_2O$``` | $2H + \frac{1}{2}O_2 \to H_2O$ |
 | ```$a^2+b^2=c^2$``` | $a^2+b^2=c^2$ |
